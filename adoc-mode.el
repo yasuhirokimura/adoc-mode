@@ -3,9 +3,9 @@
 ;; Copyright 2009-2016 Florian Kaufmann <sensorflo@gmail.com>
 ;; Copyright 2022-2024 Bozhidar Batsov <bozhidar@batsov.dev> and adoc-mode contributors
 ;;
+;; Maintainer: Bozhidar Batsov <bozhidar@batsov.dev>
 ;; Author: Florian Kaufmann <sensorflo@gmail.com>
 ;; URL: https://github.com/bbatsov/adoc-mode
-;; Maintainer: Bozhidar Batsov <bozhidar@batsov.dev>
 ;; Created: 2009
 ;; Version: 0.8.0-snapshot
 ;; Package-Requires: ((emacs "26"))
