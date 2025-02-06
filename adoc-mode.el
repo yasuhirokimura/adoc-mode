@@ -835,13 +835,13 @@ something that is orthogonal to the adoc-bold-face etc faces."
 (defvar adoc-language-info-face 'adoc-language-info-face)
 
 (defface adoc-reference-face
-  '((t (:inherit adoc-markup-face)))
+  '((t (:inherit link)))
   "Face for link references."
   :group 'adoc-faces)
 (defvar adoc-reference-face 'adoc-reference-face)
 
 (defface adoc-link-title-face
-  '((t (:inherit font-lock-comment-face)))
+  '((t (:inherit adoc-markup-face)))
   "Face for reference link titles."
   :group 'adoc-faces)
 (defvar adoc-link-title-face 'adoc-link-title-face)
